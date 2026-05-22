@@ -1,0 +1,15 @@
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\EcommerceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\EcommerceApp.Application.AssemblyInfoInputs.cache
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\EcommerceApp.Application.AssemblyInfo.cs
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\EcommerceApp.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\EcommerceApp.Application.csproj.AssemblyReference.cache
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\bin\Debug\net10.0\EcommerceApp.Application.deps.json
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\bin\Debug\net10.0\EcommerceApp.Application.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\bin\Debug\net10.0\EcommerceApp.Application.pdb
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\bin\Debug\net10.0\EcommerceApp.Domain.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\bin\Debug\net10.0\EcommerceApp.Domain.pdb
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\Ecommerc.93288879.Up2Date
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\EcommerceApp.Application.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\refint\EcommerceApp.Application.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\EcommerceApp.Application.pdb
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Application\obj\Debug\net10.0\ref\EcommerceApp.Application.dll

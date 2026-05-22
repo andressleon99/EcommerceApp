@@ -1,0 +1,17 @@
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.AssemblyInfo.cs
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\net10.0\EcommerceApp.Infrastructure.deps.json
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\net10.0\EcommerceApp.Infrastructure.runtimeconfig.json
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\net10.0\EcommerceApp.Infrastructure.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\net10.0\EcommerceApp.Infrastructure.pdb
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\net10.0\EcommerceApp.Domain.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\bin\Debug\net10.0\EcommerceApp.Domain.pdb
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\Ecommerc.51C76B1F.Up2Date
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\refint\EcommerceApp.Infrastructure.dll
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.pdb
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\EcommerceApp.Infrastructure.genruntimeconfig.cache
+D:\OneDrive\Escritorio\EcommerceApp\EcommerceApp.Infrastructure\obj\Debug\net10.0\ref\EcommerceApp.Infrastructure.dll
